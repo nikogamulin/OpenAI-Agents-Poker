@@ -1,0 +1,14 @@
+.env
+
+# exclude the folder .vscode
+.vscode
+
+# exclude the folder .git
+.git
+
+# exclude __pycache__ folder
+__pycache__
+
+# exclude data folder
+data
+
